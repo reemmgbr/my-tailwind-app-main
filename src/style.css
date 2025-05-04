@@ -1,0 +1,23 @@
+@import "swiper/css";
+@import "tailwindcss";
+body {
+  background-color: #f6c0b7;
+}
+button {
+  background-color: rgb(138 30 35);
+}
+.faa {
+  display: flex !important;
+}
+@font-face {
+  font-family: AllGenders;
+  src: url("./fonts/All-Genders-Regular-v4.ttf") format("truetype");
+}
+body {
+  font-family: AllGenders !important;
+}
+
+.swiper {
+  width: 600px;
+  height: 300px;
+}
