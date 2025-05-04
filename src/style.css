@@ -4,7 +4,7 @@ body {
   background-color: #f6c0b7;
 }
 button {
-  background-color: rgb(138 30 35);
+  background-color: #8a1e23;
 }
 .faa {
   display: flex !important;
@@ -19,5 +19,6 @@ body {
 
 .swiper {
   width: 600px;
+
   height: 300px;
 }
